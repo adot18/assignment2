@@ -1,0 +1,999 @@
+Script started on 2021-09-30 04:01:40+00:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+]0;ong@f6linux14: ~/ws3ong@f6linux14:~/ws3$ sort c[Kproductids.txt | uniq -c | sort -nk 1[K[K1 --reverse | wc
+ 779734 1559468 14814946
+
+# 1 Product ID and Product Title (one above)
+
+]0;ong@f6linux14: ~/ws3ong@f6linux14:~/ws3$ sort productids.txt | unq -c | sort -nk1 --reverse | wc[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1@c[1@u[1@stomerids.txt.txt | uniq -c | sort -nk1 --reverse | wc[A]0;ong@f6linux14: ~/ws3ong@f6linux14:~/ws3$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C.txt | uniq -c | sort -nk1 --reverse | wc[K[A]0;ong@f6linux14: ~/ws3ong@f6linux14:~/ws3$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C.txt | uniq -c | sort -nk1 --reverse | wc [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P
+
+1502381 3004762 25540480
+
+]0;ong@f6linux14: ~/ws3ong@f6linux14:~/ws3$ cd ~
+]0;ong@f6linux14: ~ong@f6linux14:~$ cd assignment2/
+]0;ong@f6linux14: ~/assignment2ong@f6linux14:~/assignment2$ ls
+100CustomerIDs.txt  PRODUCTS      datamash-1.3.tar.gz     product_title.txt
+100ProductIDs.txt   cmds.log      helpfulness_review.txt
+CUSTOMERS           datamash-1.3  history
+
+# 1 Customer ID
+
+]0;ong@f6linux14: ~/assignment2ong@f6linux14:~/assignment2$ cd prod[K[K[K[K[K[K[Klscd assignment2/~[Ksort customerids.txt | uniq -c | sort -nk1 --reverse | wc[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C | uniq -c | sort -nk1 --reverse [1P[A]0;ong@f6linux14: ~/assignment2ong@f6linux14:~/assignment2$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C | uniq -c | sort -nk1 --reverse |[1P wc[A]0;ong@f6linux14: ~/assignment2ong@f6linux14:~/assignment2$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C | uniq -c | sort -nk1 --reverse | [1Pwc[A]0;ong@f6linux14: ~/assignment2ong@f6linux14:~/assignment2$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C | uniq -c | sort -nk1 --reverse | w[1Pc[A]0;ong@f6linux14: ~/assignment2ong@f6linux14:~/assignment2$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C | uniq -c | sort -nk1 --reverse | wc[K[A]0;ong@f6linux14: ~/assignment2ong@f6linux14:~/assignment2$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C | uniq -c | sort -nk1 --reverse | wc [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[1P[1P[1P[1P[1P[1P[1P[1@p[1@r[1@o[1@d[1@u[1@ct_title.txt | uniq -c | sort -nk1 --reverse | wc[A]0;ong@f6linux14: ~/assignment2ong@f6linux14:~/assignment2$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+
+ 713712 6087911 40898677
+
+]0;ong@f6linux14: ~/assignment2ong@f6linux14:~/assignment2$ t[Kvi[K[Kvi 100CUS[K[KustomerIDs.txt 
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;24r[?12h[?12l[22;2t[22;1t[H[2J[?25l[24;1H"100CustomerIDs.txt" 100L, 900C[2;1H[6n[2;1H  [1;1H[>c]10;?]11;?[1;1H52500542
+50378566
+51210331
+49786731
+50389232
+51110953
+49042814
+51915884
+52447634
+52966385
+52947077
+30559999
+52845727
+50057481
+52008531
+51199159
+51145127
+50736950
+53052943
+52012289
+52697458
+42800127
+51142763[24;63H100,8[9CBot[23;8H[?25h[H[2J[?25l[1;1H52500542
+50378566
+51210331
+49786731
+50389232
+51110953
+49042814
+51915884
+52447634
+52966385
+52947077
+30559999
+52845727
+50057481
+52008531
+51199159
+51145127
+50736950
+53052943
+52012289
+52697458
+42800127
+51142763[24;63H100,8[9CBot"100CustomerIDs.txt" 100L, 900C[23;8H[?25h[?25l[24;63H99,8 [22;8H[?25h[?25l[24;53H~@k[22;8H[24;53H   [21;8H[24;64H8[21;8H[?25h[?25l[24;53H~@k[21;8H[24;53H   [20;8H[24;64H7[20;8H[?25h[?25l[24;53H~@k[20;8H[24;53H   [19;8H[24;64H6[19;8H[?25h[?25l[24;53H~@k[19;8H[24;53H   [18;8H[24;64H5[18;8H[?25h[?25l[24;53H~@k[18;8H[24;53H   [17;8H[24;64H4[17;8H[?25h[?25l[24;53H~@k[17;8H[24;53H   [16;8H[24;64H3[16;8H[?25h[?25l[24;53H~@k[16;8H[24;53H   [15;8H[24;64H2[15;8H[?25h[?25l[24;53H~@k[15;8H[24;53H   [14;8H[24;64H1[14;8H[?25h[?25l[24;53H~@k[14;8H[24;53H   [13;8H[24;64H0[13;8H[?25h[?25l[24;53H~@k[13;8H[24;53H   [12;8H[24;63H89[12;8H[?25h[?25l[24;53H~@k[12;8H[24;53H   [11;8H[24;64H8[11;8H[?25h[?25l[24;53H~@k[11;8H[24;53H   [10;8H[24;64H7[10;8H[?25h[?25l[24;53H~@k[10;8H[24;53H   [9;8H[24;64H6[9;8H[?25h[?25l[24;53H~@k[9;8H[24;53H   [8;8H[24;64H5[8;8H[?25h[?25l[24;53H~@k[8;8H[24;53H   [7;8H[24;64H4[7;8H[?25h[?25l[24;53H~@k[7;8H[24;53H   [6;8H[24;64H3[6;8H[?25h[?25l[1;23r[1;1H[L[1;24r[1;1H50761804[24;1H[K[24;63H82,8[10C98%[6;8H[?25h[?25l[24;53H~@k[6;8H[24;53H   [6;8H[1;23r[1;1H[L[1;24r[1;1H52753467[24;63H[K[24;63H81,8[10C97%[6;8H[?25h[?25l[24;53H~@k[6;8H[24;53H   [6;8H[1;23r[1;1H[L[1;24r[1;1H38672733[24;63H[K[24;63H80,8[10C96%[6;8H[?25h[?25l[24;53H~@k[6;8H[24;53H   [6;8H[1;23r[1;1H[L[1;24r[1;1H51809405[24;63H[K[24;63H79,8[10C94%[6;8H[?25h[?25l[1;23r[1;1H[L[1;24r[1;1H52223435[24;63H[K[24;63H78,8[10C93%[6;8H[?25h[?25l[1;23r[1;1H[L[1;24r[1;1H52517734[24;63H[K[24;63H77,8[10C92%[6;8H[?25h[?25l[24;53H~@k[6;8H[24;53H   [6;8H[1;23r[1;1H[L[1;24r[1;1H53047425[24;63H[K[24;63H76,8[10C90%[6;8H[?25h[?25l[24;53H~@k[6;8H[24;53H   [6;8H[1;23r[1;1H[L[1;24r[1;1H45284807[24;63H[K[24;63H75,8[10C89%[6;8H[?25h[?25l[24;53H~@k[6;8H[24;53H   [6;8H[1;23r[1;1H[L[1;24r[1;1H52706646[24;63H[K[24;63H74,8[10C88%[6;8H[?25h[?25l[24;53H~@k[6;8H[24;53H   [6;8H[1;23r[1;1H[L[1;24r[1;1H50592435[24;63H[K[24;63H73,8[10C87%[6;8H[?25h[?25l[24;53H~@k[6;8H[24;53H   [6;8H[1;23r[1;1H[L[1;24r[1;1H46134316[24;63H[K[24;63H72,8[10C85%[6;8H[?25h[?25l[24;53H~@k[6;8H[24;53H   [6;8H[1;23r[1;1H[L[1;24r[1;1H51247650[24;63H[K[24;63H71,8[10C84%[6;8H[?25h[?25l[24;53H~@k[6;8H[24;53H   [6;8H[1;23r[1;1H[L[1;24r[1;1H53037408[24;63H[K[24;63H70,8[10C83%[6;8H[?25h[?25l[1;23r[1;1H[L[1;24r[1;1H53071109[24;63H[K[24;63H69,8[10C81%[6;8H[?25h[?25l[24;53H~@k[6;8H[24;53H   [6;8H[1;23r[1;1H[L[1;24r[1;1H35004134[24;63H[K[24;63H68,8[10C80%[6;8H[?25h[?25l[24;53H~@k[6;8H[24;53H   [6;8H[1;23r[1;1H[L[1;24r[1;1H39134375[24;63H[K[24;63H67,8[10C79%[6;8H[?25h[?25l[24;53H~@k[6;8H[24;53H   [6;8H[1;23r[1;1H[L[1;24r[1;1H51010391[24;63H[K[24;63H66,8[10C77%[6;8H[?25h[?25l[24;53H~@k[6;8H[24;53H   [6;8H[1;23r[1;1H[L[1;24r[1;1H50895620[24;63H[K[24;63H65,8[10C76%[6;8H[?25h[?25l[24;53H~@k[6;8H[24;53H   [6;8H[1;23r[1;1H[L[1;24r[1;1H52266433[24;63H[K[24;63H64,8[10C75%[6;8H[?25h[?25l[24;53H~@k[6;8H[24;53H   [6;8H[1;23r[1;1H[L[1;24r[1;1H51917998[24;63H[K[24;63H63,8[10C74%[6;8H[?25h[?25l[24;53H~@k[6;8H[24;53H   [6;8H[1;23r[1;1H[L[1;24r[1;1H53008075[24;63H[K[24;63H62,8[10C72%[6;8H[?25h[?25l[24;53H~@k[6;8H[24;53H   [6;8H[1;23r[1;1H[L[1;24r[1;1H46983871[24;63H[K[24;63H61,8[10C71%[6;8H[?25h[?25l[24;53H~@k[6;8H[24;53H   [6;8H[1;23r[1;1H[L[1;24r[1;1H45193257[24;63H[K[24;63H60,8[10C70%[6;8H[?25h[?25l[24;53H~@k[6;8H[24;53H   [6;8H[1;23r[1;1H[L[1;24r[1;1H35985708[24;63H[K[24;63H59,8[10C68%[6;8H[?25h[?25l[24;53H~@k[6;8H[24;53H   [6;8H[1;23r[1;1H[L[1;24r[1;1H50941451[24;63H[K[24;63H58,8[10C67%[6;8H[?25h[?25l[24;53H~@k[6;8H[24;53H   [6;8H[1;23r[1;1H[L[1;24r[1;1H50702879[24;63H[K[24;63H57,8[10C66%[6;8H[?25h[?25l[24;53H~@k[6;8H[24;53H   [6;8H[1;23r[1;1H[L[1;24r[1;1H53016962[24;63H[K[24;63H56,8[10C64%[6;8H[?25h[?25l[1;23r[1;1H[L[1;24r[1;1H51325095[24;63H[K[24;63H55,8[10C63%[6;8H[?25h[?25l[24;53H~@k[6;8H[24;53H   [6;8H[1;23r[1;1H[L[1;24r[1;1H53009736[24;63H[K[24;63H54,8[10C62%[6;8H[?25h[?25l[24;53H~@k[6;8H[24;53H   [6;8H[1;23r[1;1H[L[1;24r[1;1H51379338[24;63H[K[24;63H53,8[10C61%[6;8H[?25h[?25l[24;53H~@k[6;8H[24;53H   [6;8H[1;23r[1;1H[L[1;24r[1;1H53072811[24;63H[K[24;63H52,8[10C59%[6;8H[?25h[?25l[24;53H~@k[6;8H[24;53H   [6;8H[1;23r[1;1H[L[1;24r[1;1H51243012[24;63H[K[24;63H51,8[10C58%[6;8H[?25h[?25l[24;53H~@k[6;8H[24;53H   [6;8H[1;23r[1;1H[L[1;24r[1;1H49202417[24;63H[K[24;63H50,8[10C57%[6;8H[?25h[?25l[24;53H~@k[6;8H[24;53H   [6;8H[1;23r[1;1H[L[1;24r[1;1H52496677[24;63H[K[24;63H49,8[10C55%[6;8H[?25h[?25l[24;53H~@k[6;8H[24;53H   [6;8H[1;23r[1;1H[L[1;24r[1;1H52774618[24;63H[K[24;63H48,8[10C54%[6;8H[?25h[?25l[24;53H~@k[6;8H[24;53H   [6;8H[1;23r[1;1H[L[1;24r[1;1H52830980[24;63H[K[24;63H47,8[10C53%[6;8H[?25h[?25l[24;53H~@k[6;8H[24;53H   [6;8H[1;23r[1;1H[L[1;24r[1;1H50652563[24;63H[K[24;63H46,8[10C51%[6;8H[?25h[?25l[24;53H~@k[6;8H[24;53H   [6;8H[1;23r[1;1H[L[1;24r[1;1H51934027[24;63H[K[24;63H45,8[10C50%[6;8H[?25h[?25l[24;53H~@k[6;8H[24;53H   [6;8H[1;23r[1;1H[L[1;24r[1;1H51065232[24;63H[K[24;63H44,8[10C49%[6;8H[?25h[?25l[24;53H~@k[6;8H[24;53H   [6;8H[1;23r[1;1H[L[1;24r[1;1H53084107[24;63H[K[24;63H43,8[10C48%[6;8H[?25h[?25l[24;53H~@k[6;8H[24;53H   [6;8H[1;23r[1;1H[L[1;24r[1;1H49992211[24;63H[K[24;63H42,8[10C46%[6;8H[?25h[?25l[24;53H~@k[6;8H[24;53H   [6;8H[1;23r[1;1H[L[1;24r[1;1H53082946[24;63H[K[24;63H41,8[10C45%[6;8H[?25h[?25l[24;53H~@k[6;8H[24;53H   [6;8H[1;23r[1;1H[L[1;24r[1;1H52894384[24;63H[K[24;63H40,8[10C44%[6;8H[?25h[?25l[1;23r[1;1H[L[1;24r[1;1H52797744[24;63H[K[24;63H39,8[10C42%[6;8H[?25h[?25l[24;53H~@k[6;8H[24;53H   [6;8H[1;23r[1;1H[L[1;24r[1;1H49355567[24;63H[K[24;63H38,8[10C41%[6;8H[?25h[?25l[24;53H~@k[6;8H[24;53H   [6;8H[1;23r[1;1H[L[1;24r[1;1H52564468[24;63H[K[24;63H37,8[10C40%[6;8H[?25h[?25l[24;53H~@k[6;8H[24;53H   [6;8H[1;23r[1;1H[L[1;24r[1;1H49447323[24;63H[K[24;63H36,8[10C38%[6;8H[?25h[?25l[24;53H~@k[6;8H[24;53H   [6;8H[1;23r[1;1H[L[1;24r[1;1H52173832[24;63H[K[24;63H35,8[10C37%[6;8H[?25h[?25l[24;53H~@k[6;8H[24;53H   [6;8H[1;23r[1;1H[L[1;24r[1;1H52793250[24;63H[K[24;63H34,8[10C36%[6;8H[?25h[?25l[24;53H~@k[6;8H[24;53H   [6;8H[1;23r[1;1H[L[1;24r[1;1H52938698[24;63H[K[24;63H33,8[10C35%[6;8H[?25h[?25l[24;53H~@k[6;8H[24;53H   [6;8H[1;23r[1;1H[L[1;24r[1;1H41012519[24;63H[K[24;63H32,8[10C33%[6;8H[?25h[?25l[1;23r[1;1H[L[1;24r[1;1H49148452[24;63H[K[24;63H31,8[10C32%[6;8H[?25h[?25l[24;53H~@k[6;8H[24;53H   [6;8H[1;23r[1;1H[L[1;24r[1;1H49273674[24;63H[K[24;63H30,8[10C31%[6;8H[?25h[?25l[1;23r[1;1H[L[1;24r[1;1H50774468[24;63H[K[24;63H29,8[10C29%[6;8H[?25h[?25l[24;53H~@k[6;8H[24;53H   [6;8H[1;23r[1;1H[L[1;24r[1;1H52476938[24;63H[K[24;63H28,8[10C28%[6;8H[?25h[?25l[1;23r[1;1H[L[1;24r[1;1H50199793[24;63H[K[24;63H27,8[10C27%[6;8H[?25h[?25l[24;53H~@k[6;8H[24;53H   [6;8H[1;23r[1;1H[L[1;24r[1;1H43546353[24;63H[K[24;63H26,8[10C25%[6;8H[?25h[?25l[1;23r[1;1H[L[1;24r[1;1H51147790[24;63H[K[24;63H25,8[10C24%[6;8H[?25h[?25l[24;53H~@k[6;8H[24;53H   [6;8H[1;23r[1;1H[L[1;24r[1;1H50068216[24;63H[K[24;63H24,8[10C23%[6;8H[?25h[?25l[1;23r[1;1H[L[1;24r[1;1H50608834[24;63H[K[24;63H23,8[10C22%[6;8H[?25h[?25l[1;23r[1;1H[L[1;24r[1;1H49115690[24;63H[K[24;63H22,8[10C20%[6;8H[?25h[?25l[1;23r[1;1H[L[1;24r[1;1H49750558[24;63H[K[24;63H21,8[10C19%[6;8H[?25h[?25l[24;53H~@k[6;8H[24;53H   [6;8H[1;23r[1;1H[L[1;24r[1;1H51987970[24;63H[K[24;63H20,8[10C18%[6;8H[?25h[?25l[1;23r[1;1H[L[1;24r[1;1H52254603[24;63H[K[24;63H19,8[10C16%[6;8H[?25h[?25l[24;53H~@k[6;8H[24;53H   [6;8H[1;23r[1;1H[L[1;24r[1;1H50881246[24;63H[K[24;63H18,8[10C15%[6;8H[?25h[?25l[1;23r[1;1H[L[1;24r[1;1H36642996[24;63H[K[24;63H17,8[10C14%[6;8H[?25h[?25l[24;53H~@k[6;8H[24;53H   [6;8H[1;23r[1;1H[L[1;24r[1;1H38491967[24;63H[K[24;63H16,8[10C12%[6;8H[?25h[?25l[24;53H~@k[6;8H[24;53H   [6;8H[1;23r[1;1H[L[1;24r[1;1H49693975[24;63H[K[24;63H15,8[10C11%[6;8H[?25h[?25l[24;53H~@k[6;8H[24;53H   [6;8H[1;23r[1;1H[L[1;24r[1;1H39569598[24;63H[K[24;63H14,8[10C10%[6;8H[?25h[?25l[24;53H~@k[6;8H[24;53H   [6;8H[1;23r[1;1H[L[1;24r[1;1H45273033[24;63H[K[24;63H13,8[11C9%[6;8H[?25h[?25l[24;53H~@k[6;8H[24;53H   [6;8H[1;23r[1;1H[L[1;24r[1;1H20595117[24;63H[K[24;63H12,8[11C7%[6;8H[?25h[?25l[24;53H~@k[6;8H[24;53H   [7;8H[24;64H3[7;8H[?25h[?25l[24;53H~@k[7;8H[24;53H   [8;8H[24;64H4[8;8H[?25h[?25l[24;53H~@k[8;8H[24;53H   [9;8H[24;64H5[9;8H[?25h[?25l[24;64H6[10;8H[?25h[?25l[24;53H~@k[10;8H[24;53H   [11;8H[24;64H7[11;8H[?25h[?25l[24;53H~@k[11;8H[24;53H   [12;8H[24;64H8[12;8H[?25h[?25l[24;64H9[13;8H[?25h[?25l[24;63H20[14;8H[?25h[?25l[24;64H1[15;8H[?25h[?25l[24;53H~@k[15;8H[24;53H   [16;8H[24;64H2[16;8H[?25h[?25l[24;64H3[17;8H[?25h[?25l[24;64H4[18;8H[?25h[?25l[24;53H~@k[18;8H[24;53H   [18;8H[1;23r[23;1H
+[1;24r[23;1H52173832[24;63H[K[24;63H25,8[11C9%[18;8H[?25h[?25l[1;23r[23;1H
+[1;24r[23;1H49447323[24;63H[K[24;63H26,8[10C10%[18;8H[?25h[?25l[1;23r[23;1H
+[1;24r[23;1H52564468[24;63H[K[24;63H27,8[10C11%[18;8H[?25h[?25l[1;23r[23;1H
+[1;24r[23;1H49355567[24;63H[K[24;63H28,8[10C12%[18;8H[?25h[?25l[1;23r[23;1H
+[1;24r[23;1H52797744[24;63H[K[24;63H29,8[10C14%[18;8H[?25h[?25l[24;53H~@k[18;8H[24;53H   [18;8H[1;23r[23;1H
+[1;24r[23;1H52894384[24;63H[K[24;63H30,8[10C15%[18;8H[?25h[?25l[1;23r[23;1H
+[1;24r[23;1H53082946[24;63H[K[24;63H31,8[10C16%[18;8H[?25h[?25l[1;23r[23;1H
+[1;24r[23;1H49992211[24;63H[K[24;63H32,8[10C18%[18;8H[?25h[?25l[24;53H~@k[18;8H[24;53H   [18;8H[1;23r[23;1H
+[1;24r[23;1H53084107[24;63H[K[24;63H33,8[10C19%[18;8H[?25h[?25l[24;53H~@k[18;8H[24;53H   [18;8H[1;23r[23;1H
+[1;24r[23;1H51065232[24;63H[K[24;63H34,8[10C20%[18;8H[?25h[?25l[24;53H~@k[18;8H[24;53H   [18;8H[1;23r[23;1H
+[1;24r[23;1H51934027[24;63H[K[24;63H35,8[10C22%[18;8H[?25h[?25l[1;23r[23;1H
+[1;24r[23;1H50652563[24;63H[K[24;63H36,8[10C23%[18;8H[?25h[?25l[1;23r[23;1H
+[1;24r[23;1H52830980[24;63H[K[24;63H37,8[10C24%[18;8H[?25h[?25l[1;23r[23;1H
+[1;24r[23;1H52774618[24;63H[K[24;63H38,8[10C25%[18;8H[?25h[?25l[1;23r[23;1H
+[1;24r[23;1H52496677[24;63H[K[24;63H39,8[10C27%[18;8H[?25h[?25l[24;53H~@k[18;8H[24;53H   [18;8H[1;23r[23;1H
+[1;24r[23;1H49202417[24;63H[K[24;63H40,8[10C28%[18;8H[?25h[?25l[1;23r[23;1H
+[1;24r[23;1H51243012[24;63H[K[24;63H41,8[10C29%[18;8H[?25h[?25l[1;23r[23;1H
+[1;24r[23;1H53072811[24;63H[K[24;63H42,8[10C31%[18;8H[?25h[?25l[1;23r[23;1H
+[1;24r[23;1H51379338[24;63H[K[24;63H43,8[10C32%[18;8H[?25h[?25l[24;53H~@k[18;8H[24;53H   [18;8H[1;23r[23;1H
+[1;24r[23;1H53009736[24;63H[K[24;63H44,8[10C33%[18;8H[?25h[?25l[1;23r[23;1H
+[1;24r[23;1H51325095[24;63H[K[24;63H45,8[10C35%[18;8H[?25h[?25l[1;23r[23;1H
+[1;24r[23;1H53016962[24;63H[K[24;63H46,8[10C36%[18;8H[?25h[?25l[1;23r[23;1H
+[1;24r[23;1H50702879[24;63H[K[24;63H47,8[10C37%[18;8H[?25h[?25l[24;53H~@k[18;8H[24;53H   [18;8H[1;23r[23;1H
+[1;24r[23;1H50941451[24;63H[K[24;63H48,8[10C38%[18;8H[?25h[?25l[24;53H~@k[18;8H[24;53H   [18;8H[1;23r[23;1H
+[1;24r[23;1H35985708[24;63H[K[24;63H49,8[10C40%[18;8H[?25h[?25l[24;53H~@k[18;8H[24;53H   [18;8H[1;23r[23;1H
+[1;24r[23;1H45193257[24;63H[K[24;63H50,8[10C41%[18;8H[?25h[?25l[1;23r[23;1H
+[1;24r[23;1H46983871[24;63H[K[24;63H51,8[10C42%[18;8H[?25h[?25l[1;23r[23;1H
+[1;24r[23;1H53008075[24;63H[K[24;63H52,8[10C44%[18;8H[?25h[?25l[24;53H~@k[18;8H[24;53H   [18;8H[1;23r[23;1H
+[1;24r[23;1H51917998[24;63H[K[24;63H53,8[10C45%[18;8H[?25h[?25l[24;53H~@k[18;8H[24;53H   [18;8H[1;23r[23;1H
+[1;24r[23;1H52266433[24;63H[K[24;63H54,8[10C46%[18;8H[?25h[?25l[24;53H~@k[18;8H[24;53H   [18;8H[1;23r[23;1H
+[1;24r[23;1H50895620[24;63H[K[24;63H55,8[10C48%[18;8H[?25h[?25l[1;23r[23;1H
+[1;24r[23;1H51010391[24;63H[K[24;63H56,8[10C49%[18;8H[?25h[?25l[24;53H~@k[18;8H[24;53H   [18;8H[1;23r[23;1H
+[1;24r[23;1H39134375[24;63H[K[24;63H57,8[10C50%[18;8H[?25h[?25l[1;23r[23;1H
+[1;24r[23;1H35004134[24;63H[K[24;63H58,8[10C51%[18;8H[?25h[?25l[1;23r[23;1H
+[1;24r[23;1H53071109[24;63H[K[24;63H59,8[10C53%[18;8H[?25h[?25l[1;23r[23;1H
+[1;24r[23;1H53037408[24;63H[K[24;63H60,8[10C54%[18;8H[?25h[?25l[1;23r[23;1H
+[1;24r[23;1H51247650[24;63H[K[24;63H61,8[10C55%[18;8H[?25h[?25l[1;23r[23;1H
+[1;24r[23;1H46134316[24;63H[K[24;63H62,8[10C57%[18;8H[?25h[?25l[24;53H~@k[18;8H[24;53H   [18;8H[1;23r[23;1H
+[1;24r[23;1H50592435[24;63H[K[24;63H63,8[10C58%[18;8H[?25h[?25l[1;23r[23;1H
+[1;24r[23;1H52706646[24;63H[K[24;63H64,8[10C59%[18;8H[?25h[?25l[1;23r[23;1H
+[1;24r[23;1H45284807[24;63H[K[24;63H65,8[10C61%[18;8H[?25h[?25l[1;23r[23;1H
+[1;24r[23;1H53047425[24;63H[K[24;63H66,8[10C62%[18;8H[?25h[?25l[1;23r[23;1H
+[1;24r[23;1H52517734[24;63H[K[24;63H67,8[10C63%[18;8H[?25h[?25l[1;23r[23;1H
+[1;24r[23;1H52223435[24;63H[K[24;63H68,8[10C64%[18;8H[?25h[?25l[1;23r[23;1H
+[1;24r[23;1H51809405[24;63H[K[24;63H69,8[10C66%[18;8H[?25h[?25l[1;23r[23;1H
+[1;24r[23;1H38672733[24;63H[K[24;63H70,8[10C67%[18;8H[?25h[?25l[24;53H~@k[18;8H[24;53H   [18;8H[1;23r[23;1H
+[1;24r[23;1H52753467[24;63H[K[24;63H71,8[10C68%[18;8H[?25h[?25l[1;23r[23;1H
+[1;24r[23;1H50761804[24;63H[K[24;63H72,8[10C70%[18;8H[?25h[?25l[1;23r[23;1H
+[1;24r[23;1H52500542[24;63H[K[24;63H73,8[10C71%[18;8H[?25h[?25l[1;23r[23;1H
+[1;24r[23;1H50378566[24;63H[K[24;63H74,8[10C72%[18;8H[?25h[?25l[1;23r[23;1H
+[1;24r[23;1H51210331[24;63H[K[24;63H75,8[10C74%[18;8H[?25h[?25l[1;23r[23;1H
+[1;24r[23;1H49786731[24;63H[K[24;63H76,8[10C75%[18;8H[?25h[?25l[24;53H~@k[18;8H[24;53H   [18;8H[1;23r[23;1H
+[1;24r[23;1H50389232[24;63H[K[24;63H77,8[10C76%[18;8H[?25h[?25l[1;23r[23;1H
+[1;24r[23;1H51110953[24;63H[K[24;63H78,8[10C77%[18;8H[?25h[?25l[24;53H~@k[18;8H[24;53H   [18;8H[1;23r[23;1H
+[1;24r[23;1H49042814[24;63H[K[24;63H79,8[10C79%[18;8H[?25h[?25l[1;23r[23;1H
+[1;24r[23;1H51915884[24;63H[K[24;63H80,8[10C80%[18;8H[?25h[?25l[1;23r[23;1H
+[1;24r[23;1H52447634[24;63H[K[24;63H81,8[10C81%[18;8H[?25h[?25l[1;23r[23;1H
+[1;24r[23;1H52966385[24;63H[K[24;63H82,8[10C83%[18;8H[?25h[?25l[1;23r[23;1H
+[1;24r[23;1H52947077[24;63H[K[24;63H83,8[10C84%[18;8H[?25h[?25l[1;23r[23;1H
+[1;24r[23;1H30559999[24;63H[K[24;63H84,8[10C85%[18;8H[?25h[?25l[24;53H~@k[18;8H[24;53H   [18;8H[1;23r[23;1H
+[1;24r[23;1H52845727[24;63H[K[24;63H85,8[10C87%[18;8H[?25h[?25l[24;53H~@k[18;8H[24;53H   [18;8H[1;23r[23;1H
+[1;24r[23;1H50057481[24;63H[K[24;63H86,8[10C88%[18;8H[?25h[?25l[1;23r[23;1H
+[1;24r[23;1H52008531[24;63H[K[24;63H87,8[10C89%[18;8H[?25h[?25l[1;23r[23;1H
+[1;24r[23;1H51199159[24;63H[K[24;63H88,8[10C90%[18;8H[?25h[?25l[1;23r[23;1H
+[1;24r[23;1H51145127[24;63H[K[24;63H89,8[10C92%[18;8H[?25h[?25l[1;23r[23;1H
+[1;24r[23;1H50736950[24;63H[K[24;63H90,8[10C93%[18;8H[?25h[?25l[24;53H~@k[18;8H[24;53H   [18;8H[1;23r[23;1H
+[1;24r[23;1H53052943[24;63H[K[24;63H91,8[10C94%[18;8H[?25h[?25l[1;23r[23;1H
+[1;24r[23;1H52012289[24;63H[K[24;63H92,8[10C96%[18;8H[?25h[?25l[24;53H~@k[18;8H[24;53H   [18;8H[1;23r[23;1H
+[1;24r[23;1H52697458[24;63H[K[24;63H93,8[10C97%[18;8H[?25h[?25l[1;23r[23;1H
+[1;24r[23;1H42800127[24;63H[K[24;63H94,8[10C98%[18;8H[?25h[?25l[1;23r[23;1H
+[1;24r[23;1H51142763[24;63H[K[24;63H95,8[10CBot[18;8H[?25h[?25l[24;64H6[19;8H[?25h[?25l[24;64H7[20;8H[?25h[?25l[24;64H8[21;8H[?25h[?25l[24;64H9[22;8H[?25h[?25l[24;53H~@k[22;8H[24;53H   [23;8H[24;63H100,8[23;8H[?25h[?25l[24;53H~@k[23;8H[24;53H   [23;8H[?25h[?25l[24;53H~@k[23;8H[24;53H   [23;8H[?25h[?25l[24;53H~@k[23;8H[24;53H   [23;8H[?25h[?25l[24;53H~@k[23;8H[24;53H   [23;8H[?25h[?25l[24;53H~@k[23;8H[24;53H   [23;8H[?25h[?25l[24;53H~@k[23;8H[24;53H   [23;8H[?25h[?25l[24;53H~@k[23;8H[24;53H   [23;8H[?25h[?25l[24;53H~@k[23;8H[24;53H   [23;8H[?25h[?25l[24;53H~@k[23;8H[24;53H   [23;8H[?25h[?25l[24;53H~@k[23;8H[24;53H   [23;8H[?25h[?25l[24;53H~@k[23;8H[24;53H   [23;8H[?25h[?25l[24;53H~@k[23;8H[24;53H   [23;8H[?25h[?25l[24;53H~@k[23;8H[24;53H   [23;8H[?25h[?25l[24;53H~@k[23;8H[24;53H   [23;8H[?25h[?25l[24;53H~@k[23;8H[24;53H   [23;8H[?25h[?25l[24;53H~@k[23;8H[24;53H   [23;8H[?25h[?25l[24;53H~@k[23;8H[24;53H   [23;8H[?25h[?25l[24;53H~@k[23;8H[24;53H   [23;8H[?25h[?25l[24;53H~@k[23;8H[24;53H   [23;8H[?25h[?25l[24;53H~@k[23;8H[24;53H   [23;8H[?25h[?25l[24;53H~@k[23;8H[24;53H   [23;8H[?25h[?25l[24;53H~@k[23;8H[24;53H   [23;8H[?25h[?25l[24;53H~@k[23;8H[24;53H   [23;8H[?25h[?25l[24;53H~@k[23;8H[24;53H   [23;8H[?25h[?25l[24;53H~@k[23;8H[24;53H   [23;8H[?25h[?25l[24;53H~@k[23;8H[24;53H   [23;8H[?25h[?25l[24;53H~@k[23;8H[24;53H   [23;8H[?25h[?25l[24;53H~@k[23;8H[24;53H   [23;8H[?25h[?25l[24;53H~@k[23;8H[24;53H   [23;8H[?25h[?25l[24;53H~@k[23;8H[24;53H   [23;8H[?25h[?25l[24;53H~@k[23;8H[24;53H   [23;8H[?25h[?25l[24;53H~@k[23;8H[24;53H   [23;8H[?25h[?25l[24;53H~@k[23;8H[24;53H   [23;8H[?25h[?25l[24;53H~@k[23;8H[24;53H   [23;8H[?25h[?25l[24;53H~@k[23;8H[24;53H   [23;8H[?25h[?25l[24;53H~@k[23;8H[24;53H   [23;8H[?25h[?25l[24;53H~@k[23;8H[24;53H   [23;8H[?25h[?25l[24;53H~@k[23;8H[24;53H   [23;8H[?25h[?25l[24;53H~@k[23;8H[24;53H   [23;8H[?25h[?25l[24;53H~@k[23;8H[24;53H   [23;8H[?25h[?25l[24;53H~@k[23;8H[24;53H   [23;8H[?25h[?25l[24;53H~@k[23;8H[24;53H   [23;8H[?25h[?25l[24;53H~@k[23;8H[24;53H   [23;8H[?25h[?25l[24;53H~@k[23;8H[24;53H   [23;8H[?25h[?25l[24;53H~@k[23;8H[24;53H   [23;8H[?25h[?25l[24;53H~@k[23;8H[24;53H   [23;8H[?25h[?25l[24;53H~@k[23;8H[24;53H   [23;8H[?25h[?25l[24;53H~@k[23;8H[24;53H   [23;8H[?25h[?25l[24;53H~@k[23;8H[24;53H   [23;8H[?25h[?25l[24;53H~@k[23;8H[24;53H   [23;8H[?25h[?25l[24;53H~@k[23;8H[24;53H   [23;8H[?25h[?25l[24;53H~@k[23;8H[24;53H   [23;8H[?25h[?25l[24;53H~@k[23;8H[24;53H   [23;8H[?25h[?25l[24;53H~@k[23;8H[24;53H   [23;8H[?25h[?25l[24;53H~@k[23;8H[24;53H   [23;8H[?25h[?25l[24;53H~@k[23;8H[24;53H   [23;8H[?25h[?25l[24;53H~@k[23;8H[24;53H   [23;8H[?25h[?25l[24;53H~@k[23;8H[24;53H   [23;8H[?25h[?25l[24;53H~@k[23;8H[24;53H   [23;8H[?25h[?25l[24;53H~@k[23;8H[24;53H   [23;8H[?25h[?25l[24;53H~@k[23;8H[24;53H   [23;8H[?25h[?25l[24;53H~@k[23;8H[24;53H   [23;8H[?25h[?25l[24;53H~@k[23;8H[24;53H   [23;8H[?25h[?25l[24;53H~@k[23;8H[24;53H   [23;8H[?25h[?25l[24;53H~@k[23;8H[24;53H   [23;8H[?25h[?25l[24;53H~@k[23;8H[24;53H   [23;8H[?25h[?25l[24;53H~@k[23;8H[24;53H   [23;8H[?25h[?25l[24;53H~@k[23;8H[24;53H   [23;8H[?25h[?25l[24;53H~@k[23;8H[24;53H   [23;8H[?25h[?25l[24;53H~@k[23;8H[24;53H   [23;8H[?25h[?25l[24;53H~@k[23;8H[24;53H   [23;8H[?25h[?25l[24;53H~@k[23;8H[24;53H   [23;8H[?25h[?25l[24;53H~@k[23;8H[24;53H   [23;8H[?25h[?25l[24;53H~@k[23;8H[24;53H   [23;8H[?25h[?25l[24;53H:[23;8H[24;53H[K[24;1H:[?2004h[?25hq[?25l[?2004l[23;2t[23;1t[24;1H[K[24;1H[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t]0;ong@f6linux14: ~/assignment2ong@f6linux14:~/assignment2$ vi 100ProductIDs.txt 
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;24r[?12h[?12l[22;2t[22;1t[H[2J[?25l[24;1H"100ProductIDs.txt" 100L, 1100C[2;1H[6n[2;1H  [1;1H[>c]10;?]11;?[1;1H043935806X
+0439139597
+0525947647
+0895260174
+0385504209
+0590353403
+0439784549
+0316666343
+1400050308
+0312864590
+038529929X
+0060582510
+0316769487
+044652252X
+0439136350
+0842329129
+0439064864
+0446677450
+0671027360
+0679781587
+0786868716
+0385484518
+0399144463[24;63H1,1[11CTop[1;1H[?25h[H[2J[?25l[1;1H043935806X
+0439139597
+0525947647
+0895260174
+0385504209
+0590353403
+0439784549
+0316666343
+1400050308
+0312864590
+038529929X
+0060582510
+0316769487
+044652252X
+0439136350
+0842329129
+0439064864
+0446677450
+0671027360
+0679781587
+0786868716
+0385484518
+0399144463[24;63H1,1[11CTop"100ProductIDs.txt" 100L, 1100C[1;1H[?25h[?25l[24;53H:[1;1H[24;1H[K[24;1H:[?2004h[?25hq[?25l[?2004l[23;2t[23;1t[24;1H[K[24;1H[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t]0;ong@f6linux14: ~/assignment2ong@f6linux14:~/assignment2$ cd CUSTOMERS/
+]0;ong@f6linux14: ~/assignment2/CUSTOMERSong@f6linux14:~/assignment2/CUSTOMERS$ l
+
+# 100 CUSTOMER ID files with helpfuless and review scores
+total 652
+-rw-rw-r-- 1 ong ong  6962 Sep 29 01:05 20595117.txt.new
+-rw-rw-r-- 1 ong ong  2223 Sep 29 01:05 30559999.txt.new
+-rw-rw-r-- 1 ong ong  2751 Sep 29 01:05 35004134.txt.new
+-rw-rw-r-- 1 ong ong  2731 Sep 29 01:05 35985708.txt.new
+-rw-rw-r-- 1 ong ong  5623 Sep 29 01:05 36642996.txt.new
+-rw-rw-r-- 1 ong ong  5629 Sep 29 01:05 38491967.txt.new
+-rw-rw-r-- 1 ong ong  2449 Sep 29 01:05 38672733.txt.new
+-rw-rw-r-- 1 ong ong  3096 Sep 29 01:05 39134375.txt.new
+-rw-rw-r-- 1 ong ong  6492 Sep 29 01:05 39569598.txt.new
+-rw-rw-r-- 1 ong ong  3789 Sep 29 01:05 41012519.txt.new
+-rw-rw-r-- 1 ong ong  1911 Sep 29 01:05 42800127.txt.new
+-rw-rw-r-- 1 ong ong  4470 Sep 29 01:05 43546353.txt.new
+-rw-rw-r-- 1 ong ong  9107 Sep 29 01:05 45041039.txt.new
+-rw-rw-r-- 1 ong ong  3015 Sep 29 01:05 45193257.txt.new
+-rw-rw-r-- 1 ong ong  6807 Sep 29 01:05 45273033.txt.new
+-rw-rw-r-- 1 ong ong  2635 Sep 29 01:05 45284807.txt.new
+-rw-rw-r-- 1 ong ong  2647 Sep 29 01:05 46134316.txt.new
+-rw-rw-r-- 1 ong ong  2873 Sep 29 01:05 46983871.txt.new
+-rw-rw-r-- 1 ong ong  2356 Sep 29 01:05 49042814.txt.new
+-rw-rw-r-- 1 ong ong  4209 Sep 29 01:05 49115690.txt.new
+-rw-rw-r-- 1 ong ong  4046 Sep 29 01:05 49148452.txt.new
+-rw-rw-r-- 1 ong ong  2956 Sep 29 01:05 49202417.txt.new
+-rw-rw-r-- 1 ong ong  3978 Sep 29 01:05 49273674.txt.new
+-rw-rw-r-- 1 ong ong  3565 Sep 29 01:05 49355567.txt.new
+-rw-rw-r-- 1 ong ong  3604 Sep 29 01:05 49447323.txt.new
+-rw-rw-r-- 1 ong ong  5714 Sep 29 01:05 49693975.txt.new
+-rw-rw-r-- 1 ong ong  4318 Sep 29 01:05 49750558.txt.new
+-rw-rw-r-- 1 ong ong  2657 Sep 29 01:05 49786731.txt.new
+-rw-rw-r-- 1 ong ong  3280 Sep 29 01:05 49992211.txt.new
+-rw-rw-r-- 1 ong ong  2367 Sep 29 01:05 50057481.txt.new
+-rw-rw-r-- 1 ong ong  4191 Sep 29 01:05 50068216.txt.new
+-rw-rw-r-- 1 ong ong 91573 Sep 29 01:05 50122160.txt.new
+-rw-rw-r-- 1 ong ong  4297 Sep 29 01:05 50199793.txt.new
+-rw-rw-r-- 1 ong ong  2368 Sep 29 01:05 50378566.txt.new
+-rw-rw-r-- 1 ong ong  2381 Sep 29 01:05 50389232.txt.new
+-rw-rw-r-- 1 ong ong  2671 Sep 29 01:05 50592435.txt.new
+-rw-rw-r-- 1 ong ong  4202 Sep 29 01:05 50608834.txt.new
+-rw-rw-r-- 1 ong ong  3056 Sep 29 01:05 50652563.txt.new
+-rw-rw-r-- 1 ong ong  3122 Sep 29 01:05 50702879.txt.new
+-rw-rw-r-- 1 ong ong 41443 Sep 29 01:05 50732546.txt.new
+-rw-rw-r-- 1 ong ong  2003 Sep 29 01:05 50736950.txt.new
+-rw-rw-r-- 1 ong ong  2687 Sep 29 01:05 50761804.txt.new
+-rw-rw-r-- 1 ong ong  3960 Sep 29 01:05 50774468.txt.new
+-rw-rw-r-- 1 ong ong  7936 Sep 29 01:05 50776149.txt.new
+-rw-rw-r-- 1 ong ong  5613 Sep 29 01:05 50881246.txt.new
+-rw-rw-r-- 1 ong ong  3040 Sep 29 01:05 50895620.txt.new
+-rw-rw-r-- 1 ong ong  7686 Sep 29 01:05 50913245.txt.new
+-rw-rw-r-- 1 ong ong  3059 Sep 29 01:05 50941451.txt.new
+-rw-rw-r-- 1 ong ong  2757 Sep 29 01:05 51010391.txt.new
+-rw-rw-r-- 1 ong ong  3351 Sep 29 01:05 51065232.txt.new
+-rw-rw-r-- 1 ong ong  2230 Sep 29 01:05 51110953.txt.new
+-rw-rw-r-- 1 ong ong  2051 Sep 29 01:05 51142763.txt.new
+-rw-rw-r-- 1 ong ong  2093 Sep 29 01:05 51145127.txt.new
+-rw-rw-r-- 1 ong ong  4590 Sep 29 01:05 51147790.txt.new
+-rw-rw-r-- 1 ong ong  2057 Sep 29 01:05 51199159.txt.new
+-rw-rw-r-- 1 ong ong  2448 Sep 29 01:05 51210331.txt.new
+-rw-rw-r-- 1 ong ong  3058 Sep 29 01:05 51243012.txt.new
+-rw-rw-r-- 1 ong ong  2840 Sep 29 01:05 51247650.txt.new
+-rw-rw-r-- 1 ong ong  2822 Sep 29 01:05 51325095.txt.new
+-rw-rw-r-- 1 ong ong  3289 Sep 29 01:05 51379338.txt.new
+-rw-rw-r-- 1 ong ong  2577 Sep 29 01:05 51809405.txt.new
+-rw-rw-r-- 1 ong ong  2217 Sep 29 01:05 51915884.txt.new
+-rw-rw-r-- 1 ong ong  2844 Sep 29 01:05 51917998.txt.new
+-rw-rw-r-- 1 ong ong  3278 Sep 29 01:05 51934027.txt.new
+-rw-rw-r-- 1 ong ong  4601 Sep 29 01:05 51987970.txt.new
+-rw-rw-r-- 1 ong ong  2170 Sep 29 01:05 52008531.txt.new
+-rw-rw-r-- 1 ong ong  2318 Sep 29 01:05 52012289.txt.new
+-rw-rw-r-- 1 ong ong  3817 Sep 29 01:05 52173832.txt.new
+-rw-rw-r-- 1 ong ong  2564 Sep 29 01:05 52223435.txt.new
+-rw-rw-r-- 1 ong ong  4930 Sep 29 01:05 52254603.txt.new
+-rw-rw-r-- 1 ong ong  2904 Sep 29 01:05 52266433.txt.new
+-rw-rw-r-- 1 ong ong  2641 Sep 29 01:05 52447634.txt.new
+-rw-rw-r-- 1 ong ong  4135 Sep 29 01:05 52476938.txt.new
+-rw-rw-r-- 1 ong ong  3203 Sep 29 01:05 52496677.txt.new
+-rw-rw-r-- 1 ong ong  2703 Sep 29 01:05 52500542.txt.new
+-rw-rw-r-- 1 ong ong  2604 Sep 29 01:05 52517734.txt.new
+-rw-rw-r-- 1 ong ong  3537 Sep 29 01:05 52564468.txt.new
+-rw-rw-r-- 1 ong ong 12239 Sep 29 01:05 52615377.txt.new
+-rw-rw-r-- 1 ong ong  2190 Sep 29 01:05 52697458.txt.new
+-rw-rw-r-- 1 ong ong  2609 Sep 29 01:05 52706646.txt.new
+-rw-rw-r-- 1 ong ong  2566 Sep 29 01:05 52753467.txt.new
+-rw-rw-r-- 1 ong ong  3139 Sep 29 01:05 52774618.txt.new
+-rw-rw-r-- 1 ong ong  3729 Sep 29 01:05 52793250.txt.new
+-rw-rw-r-- 1 ong ong  3458 Sep 29 01:05 52797744.txt.new
+-rw-rw-r-- 1 ong ong  3246 Sep 29 01:05 52830980.txt.new
+-rw-rw-r-- 1 ong ong  2160 Sep 29 01:05 52845727.txt.new
+-rw-rw-r-- 1 ong ong  3294 Sep 29 01:05 52894384.txt.new
+-rw-rw-r-- 1 ong ong  3846 Sep 29 01:05 52938698.txt.new
+-rw-rw-r-- 1 ong ong  2235 Sep 29 01:05 52947077.txt.new
+-rw-rw-r-- 1 ong ong  2220 Sep 29 01:05 52966385.txt.new
+-rw-rw-r-- 1 ong ong  2689 Sep 29 01:05 53008075.txt.new
+-rw-rw-r-- 1 ong ong  2992 Sep 29 01:05 53009736.txt.new
+-rw-rw-r-- 1 ong ong  3040 Sep 29 01:05 53016962.txt.new
+-rw-rw-r-- 1 ong ong  2768 Sep 29 01:05 53037408.txt.new
+-rw-rw-r-- 1 ong ong  2852 Sep 29 01:05 53047425.txt.new
+-rw-rw-r-- 1 ong ong  2213 Sep 29 01:05 53052943.txt.new
+-rw-rw-r-- 1 ong ong  2757 Sep 29 01:05 53071109.txt.new
+-rw-rw-r-- 1 ong ong  2989 Sep 29 01:05 53072811.txt.new
+-rw-rw-r-- 1 ong ong  3525 Sep 29 01:05 53082946.txt.new
+-rw-rw-r-- 1 ong ong  3345 Sep 29 01:05 53084107.txt.new
+drwxrwxr-x 2 ong ong 12288 Sep 29 01:05 original
+drwxrwxr-x 4 ong ong 12288 Sep 29 01:05 .
+drwxrwxr-x 2 ong ong  4096 Sep 29 02:12 helpful
+drwxrwxr-x 5 ong ong  4096 Sep 30 04:04 ..
+]0;ong@f6linux14: ~/assignment2/CUSTOMERSong@f6linux14:~/assignment2/CUSTOMERS$ cd ..
+]0;ong@f6linux14: ~/assignment2ong@f6linux14:~/assignment2$ cd PRo[KODUCTS/
+]0;ong@f6linux14: ~/assignment2/PRODUCTSong@f6linux14:~/assignment2/PRODUCTS$ 
+]0;ong@f6linux14: ~/assignment2/PRODUCTSong@f6linux14:~/assignment2/PRODUCTS$ l
+# 100 Product ID files with helpfuless and review scores
+total 576
+-rw-rw-r-- 1 ong ong  2950 Sep 27 04:45 0060193395.txt.new
+-rw-rw-r-- 1 ong ong  4335 Sep 27 04:45 0060392452.txt.new
+-rw-rw-r-- 1 ong ong  2474 Sep 27 04:45 0060514558.txt.new
+-rw-rw-r-- 1 ong ong  6740 Sep 27 04:45 0060582510.txt.new
+-rw-rw-r-- 1 ong ong  3032 Sep 27 04:45 0060761288.txt.new
+-rw-rw-r-- 1 ong ong  3029 Sep 27 04:45 0060763957.txt.new
+-rw-rw-r-- 1 ong ong  3314 Sep 27 04:45 0060875410.txt.new
+-rw-rw-r-- 1 ong ong  2698 Sep 27 04:45 0060928336.txt.new
+-rw-rw-r-- 1 ong ong  3485 Sep 27 04:45 0060930535.txt.new
+-rw-rw-r-- 1 ong ong  3085 Sep 27 04:45 0060938455.txt.new
+-rw-rw-r-- 1 ong ong  2769 Sep 27 04:45 0060987103.txt.new
+-rw-rw-r-- 1 ong ong  2460 Sep 27 04:45 0062502182.txt.new
+-rw-rw-r-- 1 ong ong  2633 Sep 27 04:45 0066214130.txt.new
+-rw-rw-r-- 1 ong ong  2445 Sep 27 04:45 0140177396.txt.new
+-rw-rw-r-- 1 ong ong  2224 Sep 27 04:45 014028009X.txt.new
+-rw-rw-r-- 1 ong ong  2434 Sep 27 04:45 014131088X.txt.new
+-rw-rw-r-- 1 ong ong  3063 Sep 27 04:45 0142001740.txt.new
+-rw-rw-r-- 1 ong ong  3785 Sep 27 04:45 0156027321.txt.new
+-rw-rw-r-- 1 ong ong  3286 Sep 27 04:45 0310205719.txt.new
+-rw-rw-r-- 1 ong ong  4041 Sep 27 04:45 0312195516.txt.new
+-rw-rw-r-- 1 ong ong  3259 Sep 27 04:45 0312278586.txt.new
+-rw-rw-r-- 1 ong ong  2343 Sep 27 04:45 0312857691.txt.new
+-rw-rw-r-- 1 ong ong  3393 Sep 27 04:45 0312864256.txt.new
+-rw-rw-r-- 1 ong ong  7399 Sep 27 04:45 0312864590.txt.new
+-rw-rw-r-- 1 ong ong  2494 Sep 27 04:45 0316011770.txt.new
+-rw-rw-r-- 1 ong ong  2350 Sep 27 04:45 0316601950.txt.new
+-rw-rw-r-- 1 ong ong  8238 Sep 27 04:45 0316666343.txt.new
+-rw-rw-r-- 1 ong ong  5908 Sep 27 04:45 0316769487.txt.new
+-rw-rw-r-- 1 ong ong  2204 Sep 27 04:45 0345340426.txt.new
+-rw-rw-r-- 1 ong ong  2455 Sep 27 04:45 0345342968.txt.new
+-rw-rw-r-- 1 ong ong  2429 Sep 27 04:45 0345417623.txt.new
+-rw-rw-r-- 1 ong ong  2279 Sep 27 04:45 0374332657.txt.new
+-rw-rw-r-- 1 ong ong  4480 Sep 27 04:45 0375826688.txt.new
+-rw-rw-r-- 1 ong ong  6076 Sep 27 04:45 038529929X.txt.new
+-rw-rw-r-- 1 ong ong  2482 Sep 27 04:45 0385335482.txt.new
+-rw-rw-r-- 1 ong ong  3296 Sep 27 04:45 0385337116.txt.new
+-rw-rw-r-- 1 ong ong  4452 Sep 27 04:45 0385484518.txt.new
+-rw-rw-r-- 1 ong ong  2842 Sep 27 04:45 0385497466.txt.new
+-rw-rw-r-- 1 ong ong  2424 Sep 27 04:45 038550120X.txt.new
+-rw-rw-r-- 1 ong ong 10784 Sep 27 04:45 0385504209.txt.new
+-rw-rw-r-- 1 ong ong  2326 Sep 27 04:45 0393317552.txt.new
+-rw-rw-r-- 1 ong ong  2957 Sep 27 04:45 0399142789.txt.new
+-rw-rw-r-- 1 ong ong  4711 Sep 27 04:45 0399144463.txt.new
+-rw-rw-r-- 1 ong ong  3214 Sep 27 04:45 039914563X.txt.new
+-rw-rw-r-- 1 ong ong  2734 Sep 27 04:45 039915079X.txt.new
+-rw-rw-r-- 1 ong ong  2413 Sep 27 04:45 0399150897.txt.new
+-rw-rw-r-- 1 ong ong  2536 Sep 27 04:45 0399501487.txt.new
+-rw-rw-r-- 1 ong ong  2714 Sep 27 04:45 0425198243.txt.new
+-rw-rw-r-- 1 ong ong  4938 Sep 27 04:45 0439064864.txt.new
+-rw-rw-r-- 1 ong ong  5576 Sep 27 04:45 0439136350.txt.new
+-rw-rw-r-- 1 ong ong 15077 Sep 27 04:45 0439139597.txt.new
+-rw-rw-r-- 1 ong ong 18647 Sep 27 04:45 043935806X.txt.new
+-rw-rw-r-- 1 ong ong  8507 Sep 27 04:45 0439784549.txt.new
+-rw-rw-r-- 1 ong ong  2327 Sep 27 04:45 0440212561.txt.new
+-rw-rw-r-- 1 ong ong  3023 Sep 27 04:45 0440219078.txt.new
+-rw-rw-r-- 1 ong ong  2865 Sep 27 04:45 0440414806.txt.new
+-rw-rw-r-- 1 ong ong  3144 Sep 27 04:45 0446310786.txt.new
+-rw-rw-r-- 1 ong ong  6050 Sep 27 04:45 044652252X.txt.new
+-rw-rw-r-- 1 ong ong  3430 Sep 27 04:45 0446532231.txt.new
+-rw-rw-r-- 1 ong ong  2385 Sep 27 04:45 0446608955.txt.new
+-rw-rw-r-- 1 ong ong  3262 Sep 27 04:45 0446672211.txt.new
+-rw-rw-r-- 1 ong ong  5249 Sep 27 04:45 0446677450.txt.new
+-rw-rw-r-- 1 ong ong  2640 Sep 27 04:45 0449004023.txt.new
+-rw-rw-r-- 1 ong ong  3178 Sep 27 04:45 0451191145.txt.new
+-rw-rw-r-- 1 ong ong  2863 Sep 27 04:45 0451524934.txt.new
+-rw-rw-r-- 1 ong ong  2300 Sep 27 04:45 0451526341.txt.new
+-rw-rw-r-- 1 ong ong 11716 Sep 27 04:45 0525947647.txt.new
+-rw-rw-r-- 1 ong ong  2559 Sep 27 04:45 0553272535.txt.new
+-rw-rw-r-- 1 ong ong  2303 Sep 27 04:45 0553375407.txt.new
+-rw-rw-r-- 1 ong ong  3677 Sep 27 04:45 0553573403.txt.new
+-rw-rw-r-- 1 ong ong  9548 Sep 27 04:45 0590353403.txt.new
+-rw-rw-r-- 1 ong ong  3184 Sep 27 04:45 059035342X.txt.new
+-rw-rw-r-- 1 ong ong  2382 Sep 27 04:45 0609610597.txt.new
+-rw-rw-r-- 1 ong ong  2496 Sep 27 04:45 0671021001.txt.new
+-rw-rw-r-- 1 ong ong  2998 Sep 27 04:45 0671025368.txt.new
+-rw-rw-r-- 1 ong ong  3505 Sep 27 04:45 0671027344.txt.new
+-rw-rw-r-- 1 ong ong  4886 Sep 27 04:45 0671027360.txt.new
+-rw-rw-r-- 1 ong ong  2806 Sep 27 04:45 0671524313.txt.new
+-rw-rw-r-- 1 ong ong  3834 Sep 27 04:45 0679444815.txt.new
+-rw-rw-r-- 1 ong ong  2904 Sep 27 04:45 0679735771.txt.new
+-rw-rw-r-- 1 ong ong  4818 Sep 27 04:45 0679781587.txt.new
+-rw-rw-r-- 1 ong ong  2402 Sep 27 04:45 0684801523.txt.new
+-rw-rw-r-- 1 ong ong  2346 Sep 27 04:45 068484267X.txt.new
+-rw-rw-r-- 1 ong ong  2702 Sep 27 04:45 0689817851.txt.new
+-rw-rw-r-- 1 ong ong  2609 Sep 27 04:45 0743222245.txt.new
+-rw-rw-r-- 1 ong ong  2520 Sep 27 04:45 0785263535.txt.new
+-rw-rw-r-- 1 ong ong  4674 Sep 27 04:45 0786868716.txt.new
+-rw-rw-r-- 1 ong ong  3044 Sep 27 04:45 0812511816.txt.new
+-rw-rw-r-- 1 ong ong  2545 Sep 27 04:45 0812548051.txt.new
+-rw-rw-r-- 1 ong ong  3554 Sep 27 04:45 0812550706.txt.new
+-rw-rw-r-- 1 ong ong  5507 Sep 27 04:45 0842329129.txt.new
+-rw-rw-r-- 1 ong ong 12421 Sep 27 04:45 0895260174.txt.new
+-rw-rw-r-- 1 ong ong  2837 Sep 27 04:45 0895261901.txt.new
+-rw-rw-r-- 1 ong ong  3189 Sep 27 04:45 0971453209.txt.new
+-rw-rw-r-- 1 ong ong  4208 Sep 27 04:45 0975599518.txt.new
+-rw-rw-r-- 1 ong ong  3541 Sep 27 04:45 1400046610.txt.new
+-rw-rw-r-- 1 ong ong  7991 Sep 27 04:45 1400050308.txt.new
+-rw-rw-r-- 1 ong ong  3893 Sep 27 04:45 1558743669.txt.new
+-rw-rw-r-- 1 ong ong  2304 Sep 27 04:45 1576734587.txt.new
+-rw-rw-r-- 1 ong ong  2663 Sep 27 04:45 1594480001.txt.new
+drwxrwxr-x 2 ong ong  4096 Sep 27 04:45 original
+drwxrwxr-x 4 ong ong 12288 Sep 29 01:25 .
+drwxrwxr-x 2 ong ong  4096 Sep 29 01:29 helpful
+drwxrwxr-x 5 ong ong  4096 Sep 30 04:04 ..
+]0;ong@f6linux14: ~/assignment2/PRODUCTSong@f6linux14:~/assignment2/PRODUCTS$ w
+    105     938    6092
+]0;ong@f6linux14: ~/assignment2/PRODUCTSong@f6linux14:~/assignment2/PRODUCTS$ cd ../CUSTOMERS/
+]0;ong@f6linux14: ~/assignment2/CUSTOMERSong@f6linux14:~/assignment2/CUSTOMERS$ .[Kw
+    105     938    5892
+
+# Checking file count above
+# Echo message explaining how I did alias before (forgot to turn on script)
+
+]0;ong@f6linux14: ~/assignment2/CUSTOMERSong@f6linux14:~/assignment2/CUSTOMERS$ i[Kearlier i did alias -[Kl=""[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kecho before I did alias l [K="ls latr" and a lias w="ls -la|wc"
+before I did alias l=ls latr and alias w=ls -la|wc
+]0;ong@f6linux14: ~/assignment2/CUSTOMERSong@f6linux14:~/assignment2/CUSTOMERS$ echo I went into vi [K ~/.bash_aliases and t hen added then[Km into the [K[K[K[Kbashrc manually
+I went into vi /home/ong/.bash_aliases and then added them into bashrc manually
+
+]0;ong@f6linux14: ~/assignment2/CUSTOMERSong@f6linux14:~/assignment2/CUSTOMERS$ cd[K[Kcd[K[Kcd ..
+]0;ong@f6linux14: ~/assignment2ong@f6linux14:~/assignment2$ cd datamash-1.3/
+]0;ong@f6linux14: ~/assignment2/datamash-1.3ong@f6linux14:~/assignment2/datamash-1.3$ cd datamash-1.3/..[Kecho I went into vi ~/.bash_aliases and then added them into bashrc manually[A]0;ong@f6linux14: ~/assignment2/datamash-1.3ong@f6linux14:~/assignment2/datamash-1.3$ [C[C[C[C[Cbefore I did alias l="ls latr"
+[C[C[17Palias w="ls -la|wc"[A]0;ong@f6linux14: ~/assignment2/datamash-1.3ong@f6linux14:~/assignment2/datamash-1.3$ w[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd ../CUSTOMERS/w[Klcd PRODUCTS/..[Kl[Kcd CUSTOMERS/vi 100ProductIDs.txt [1@Customer[C[C[C[C[C[C[C[Csort product_title.txt | uniq -c | sort -nk1 --reverse | wc[A]0;ong@f6linux14: ~/assignment2/datamash-1.3ong@f6linux14:~/assignment2/datamash-1.3$ ls[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd assignment2/~[Ksort customerids.txt | uniq -c | sort -nk1 --reverse | wc[A]0;ong@f6linux14: ~/assignment2/datamash-1.3ong@f6linux14:~/assignment2/datamash-1.3$ [C[C[C[C[Cproductids.txt | uniq -c | sort -n[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A]0;ong@f6linux14: ~/assignment2/datamash-1.3ong@f6linux14:~/assignment2/datamash-1.3$ tmux ls[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[9@head mean.txt[Cls[Kcd helpful/ls[Kcd CUSTOMERS/ls[Kcd ../../assignment2/for file in ../CUSTOMERS/*.new ; do ./datamash -W ppearson 1:2 < ../CUSTOMERS/$file ; done[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C2:1[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[22Pcd datamash-1.3/
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C../../assignment2/sed s/\(.\)\t\(.*\)$/\2\t\1/ 52615377.txt.new [A]0;ong@f6linux14: ~/assignment2/datamash-1.3ong@f6linux14:~/assignment2/datamash-1.3$ [C[C[C[C[C[C[C[C[C\d\)\t\(.*\)$/\2\t\1/ 5261537[1@7[C[C[C[C[C[C[C[C[C[A]0;ong@f6linux14: ~/assignment2/datamash-1.3ong@f6linux14:~/assignment2/datamash-1.3$ S
+[C[C[C[C[C[C[C[C[C[C[C[A]0;ong@f6linux14: ~/assignment2/datamash-1.3ong@f6linux14:~/assignment2/datamash-1.3$ [16Phead 52615377.txt.new 
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kcd CUSTOMERS/ls[Kcd ..[3Plscd [2Plwlscd helpful/w[Kls[1Pwlcd CUSTOMERS/ls[Kcd ../../assignment2/ls[Kmv helpfulness_review.txt ../../assignment2/[A]0;ong@f6linux14: ~/assignment2/datamash-1.3ong@f6linux14:~/assignment2/datamash-1.3$ ls[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cmv assignment2 helpfulness_review.txtls[Kmv helpfuless_review.txt assignment2[6Psort -n helpfuless_review.txt ls[Kfor file in ../CUSTOMERS/*.new ; do ./datamash -W ppearson 2:1 < ../CUSTOMERS/$file >> helpfuless_review.txt; done; done[K[A[22Pcd datamash-1.3/
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kmash-1.3/for file in ../CUSTOMERS/*.new ; do ./datamash -W ppearson 2:1 < ../CUSTOMERS/$file ; done[C[1P[1@1[C[C[1P[1@2
+
+# Correlation scores using the datamap thing
+-0.07801434074194
+0.21345504736868
+0.055309254263891
+-0.018475208724832
+0.014465514553815
+0.17020566472814
+0.12121827988843
+0.10005442649664
+0.032994743885822
+0.17200338503861
+0.089102917317791
+0.098881392684532
+0.18720273660608
+0.021132515307758
+0.092359619529125
+0.1384713883907
+0.14278679881351
+0.0053203252670871
+0.040504842491862
+0.068202332403585
+0.059734436987131
+0.18318449848793
+0.1023365975441
+0.084133214894678
+0.13851838267659
+0.11816888546413
+0.16415290612614
+0.11669140003769
+0.1106744637466
+0.15381696183264
+0.040208873642215
+0.0079500705902259
+0.043764675851012
+0.1301622379244
+0.019539896441349
+0.068444026754028
+0.06205993708533
+0.067986415610439
+0.12783864743466
+0.13504126608126
+-0.013727796992368
+0.062595527593946
+0.088830355194399
+-0.0061448727026488
+0.027029386976794
+nan
+0.090116904917308
+0.0049250944457509
+0.10743206757669
+0.013752013650581
+0.055831605020071
+0.041677792338704
+0.085257437068646
+0.046537167012795
+0.12504985186374
+0.12678688007083
+0.06835179616414
+0.060609415951821
+0.086940729395386
+0.12578151587695
+0.11875456413314
+0.14176373240007
+0.022448391180586
+0.13503774269188
+0.051486636075274
+0.017811475726488
+0.18492316019033
+0.10237932118738
+-0.0026349289854177
+0.073176446680375
+0.013724947082216
+0.062000110385039
+0.055596837865367
+0.18251371784434
+0.18154880963794
+0.11983203571544
+0.16328542608749
+0.030740558705146
+-0.14252275828471
+0.025110761126103
+0.066920372977256
+0.13275129539799
+0.0049836076293453
+0.050037786797692
+0.16537943284871
+0.074886220771932
+0.044626136926622
+0.15008944716725
+0.062737374957511
+-0.071306253746504
+0.15857132700717
+0.16544324685575
+0.16760279939147
+0.043727709187369
+0.19913465813733
+0.10589722686895
+0.031330315464942
+0.085940719734639
+0.098723957624567
+0.059862926995826
+]0;ong@f6linux14: ~/assignment2/datamash-1.3ong@f6linux14:~/assignment2/datamash-1.3$ cd ../CUSTOMERS/
+]0;ong@f6linux14: ~/assignment2/CUSTOMERSong@f6linux14:~/assignment2/CUSTOMERS$ cd helpful/
+]0;ong@f6linux14: ~/assignment2/CUSTOMERS/helpfulong@f6linux14:~/assignment2/CUSTOMERS/helpful$ ls
+20595117.txt.new.helpful  50389232.txt.new.helpful  52223435.txt.new.helpful
+30559999.txt.new.helpful  50592435.txt.new.helpful  52254603.txt.new.helpful
+35004134.txt.new.helpful  50608834.txt.new.helpful  52266433.txt.new.helpful
+35985708.txt.new.helpful  50652563.txt.new.helpful  52447634.txt.new.helpful
+36642996.txt.new.helpful  50702879.txt.new.helpful  52476938.txt.new.helpful
+38491967.txt.new.helpful  50732546.txt.new.helpful  52496677.txt.new.helpful
+38672733.txt.new.helpful  50736950.txt.new.helpful  52500542.txt.new.helpful
+39134375.txt.new.helpful  50761804.txt.new.helpful  52517734.txt.new.helpful
+39569598.txt.new.helpful  50774468.txt.new.helpful  52564468.txt.new.helpful
+41012519.txt.new.helpful  50776149.txt.new.helpful  52615377.txt.new.helpful
+42800127.txt.new.helpful  50881246.txt.new.helpful  52697458.txt.new.helpful
+43546353.txt.new.helpful  50895620.txt.new.helpful  52706646.txt.new.helpful
+45041039.txt.new.helpful  50913245.txt.new.helpful  52753467.txt.new.helpful
+45193257.txt.new.helpful  50941451.txt.new.helpful  52774618.txt.new.helpful
+45273033.txt.new.helpful  51010391.txt.new.helpful  52793250.txt.new.helpful
+45284807.txt.new.helpful  51065232.txt.new.helpful  52797744.txt.new.helpful
+46134316.txt.new.helpful  51110953.txt.new.helpful  52830980.txt.new.helpful
+46983871.txt.new.helpful  51142763.txt.new.helpful  52845727.txt.new.helpful
+49042814.txt.new.helpful  51145127.txt.new.helpful  52894384.txt.new.helpful
+49115690.txt.new.helpful  51147790.txt.new.helpful  52938698.txt.new.helpful
+49148452.txt.new.helpful  51199159.txt.new.helpful  52947077.txt.new.helpful
+49202417.txt.new.helpful  51210331.txt.new.helpful  52966385.txt.new.helpful
+49273674.txt.new.helpful  51243012.txt.new.helpful  53008075.txt.new.helpful
+49355567.txt.new.helpful  51247650.txt.new.helpful  53009736.txt.new.helpful
+49447323.txt.new.helpful  51325095.txt.new.helpful  53016962.txt.new.helpful
+49693975.txt.new.helpful  51379338.txt.new.helpful  53037408.txt.new.helpful
+49750558.txt.new.helpful  51809405.txt.new.helpful  53047425.txt.new.helpful
+49786731.txt.new.helpful  51915884.txt.new.helpful  53052943.txt.new.helpful
+49992211.txt.new.helpful  51917998.txt.new.helpful  53071109.txt.new.helpful
+50057481.txt.new.helpful  51934027.txt.new.helpful  53072811.txt.new.helpful
+50068216.txt.new.helpful  51987970.txt.new.helpful  53082946.txt.new.helpful
+50122160.txt.new.helpful  52008531.txt.new.helpful  53084107.txt.new.helpful
+50199793.txt.new.helpful  52012289.txt.new.helpful  mean.txt
+50378566.txt.new.helpful  52173832.txt.new.helpful  typescript
+]0;ong@f6linux14: ~/assignment2/CUSTOMERS/helpfulong@f6linux14:~/assignment2/CUSTOMERS/helpful$ head mean.txt 
+7.12842
+8.86127
+13.5522
+3.23958
+10.6792
+6.77096
+6.15986
+57.232
+21.1758
+9.43778
+]0;ong@f6linux14: ~/assignment2/CUSTOMERS/helpfulong@f6linux14:~/assignment2/CUSTOMERS/helpful$ head mean.txt ls[Kcd helpful/../CUSTOMERS/for file in ../CUSTOMERS/*.new ; do ./datamash -W ppearson 1:2 < ../CUSTOMERS/$file ; done[A[17Pcd datamash-1.3/
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C..[Kecho I went into vi ~/.bash_aliases and then added them into bashrc manually[A]0;ong@f6linux14: ~/assignment2/CUSTOMERS/helpfulong@f6linux14:~/assignment2/CUSTOMERS/helpful$ [C[C[C[C[Cbefore I did alias l="ls latr[17P" and alias w="ls -la|wc"[A]0;ong@f6linux14: ~/assignment2/CUSTOMERS/helpfulong@f6linux14:~/assignment2/CUSTOMERS/helpful$ w[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd ../CUSTOMERS/w[Klcd PRODUCTS/..[Kl[Kcd CUSTOMERS/vi 100ProductIDs.txt [1@Customer[C[C[C[C[C[C[C[Csort product_title.txt | uniq -c | sort -nk1 --reverse | wc[A]0;ong@f6linux14: ~/assignment2/CUSTOMERS/helpfulong@f6linux14:~/assignment2/CUSTOMERS/helpful$ ls[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd assignment2/~[Ksort customerids.txt | uniq -c | sort -nk1 --reverse | wc[A]0;ong@f6linux14: ~/assignment2/CUSTOMERS/helpfulong@f6linux14:~/assignment2/CUSTOMERS/helpful$ [C[C[C[C[Cproductids.txt | uniq -c | so[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A]0;ong@f6linux14: ~/assignment2/CUSTOMERS/helpfulong@f6linux14:~/assignment2/CUSTOMERS/helpful$ tmux ls[K
+
+# Created a mean.txt which has the mean of helpfuless for customers 
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[9@head mean.txt[Cls[Kcd helpful/ls[Kcd CUSTOMERS/ls[Kcd CUSTOMERS/[K[K[K[K[K[K[K[K[K[K[K[K[Kecho I h[Khad a for loop initially t hat calculated the mean of each file and put it in h[K[Kto mean.txt for CUSTOMERS and  PRODUCTS
+I had a for loop initially that calculated the mean of each file and put it into mean.txt for CUSTOMERS and PRODUCTS
+]0;ong@f6linux14: ~/assignment2/CUSTOMERS/helpfulong@f6linux14:~/assignment2/CUSTOMERS/helpful$ echo I had a for loop initially that calculated the mean of each file and put it into mean.txt for CUSTOMERS and PRODUCTS[A[A]0;ong@f6linux14: ~/assignment2/CUSTOMERS/helpfulong@f6linux14:~/assignment2/CUSTOMERS/helpful$ [19Phead mean.txt 
+
+[K
+[K[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kcd helpful/../CUSTOMERS/for file in ../CUSTOMERS/*.new ; do ./datamash -W ppearson 1:2 < ../CUSTOMERS/$file ; done[A[17Pcd datamash-1.3/
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C..[Kecho I went into vi ~/.bash_aliases and then added them into bashrc manually[A]0;ong@f6linux14: ~/assignment2/CUSTOMERS/helpfulong@f6linux14:~/assignment2/CUSTOMERS/helpful$ [C[C[C[C[Cbefore I did alias l="ls latr[17P" and alias w="ls -la|wc"[A]0;ong@f6linux14: ~/assignment2/CUSTOMERS/helpfulong@f6linux14:~/assignment2/CUSTOMERS/helpful$ w[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd ../CUSTOMERS/w[Klcd PRODUCTS/..[Kl[Kcd CUSTOMERS/vi 100ProductIDs.txt [1@Customer[C[C[C[C[C[C[C[Csort product_title.txt | uniq -c | sort -nk1 --reverse | wc[A]0;ong@f6linux14: ~/assignment2/CUSTOMERS/helpfulong@f6linux14:~/assignment2/CUSTOMERS/helpful$ ls[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd assignment2/~[Ksort customerids.txt | uniq -c | sort -nk1 --reverse | wc[A]0;ong@f6linux14: ~/assignment2/CUSTOMERS/helpfulong@f6linux14:~/assignment2/CUSTOMERS/helpful$ [C[C[C[C[Cproductids.txt | uniq -c | so[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A]0;ong@f6linux14: ~/assignment2/CUSTOMERS/helpfulong@f6linux14:~/assignment2/CUSTOMERS/helpful$ tmux ls[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[9@head mean.txt[Cls[Kcd helpful/ls[Kcd CUSTOMERS/ls[Kcd CUSTOMERS/ls[Kcd helpful/ls[Kcd CUSTOMERS/ls[Kcd ../../assignment2/for file in ../CUSTOMERS/*.new ; do ./datamash -W ppearson 1:2 < ../CUSTOMERS/$file ; done[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C2:1[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[17Pcd datamash-1.3/
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C../../assignment2/sed s/\(.\)\t\(.*\)$/\2\t\1/ 52615377.txt.new [A]0;ong@f6linux14: ~/assignment2/CUSTOMERS/helpfulong@f6linux14:~/assignment2/CUSTOMERS/helpful$ [C[C[C[C[C[C[C[C[C\d\)\t\(.*\)$/\2\t\1/ 52[1@6[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A]0;ong@f6linux14: ~/assignment2/CUSTOMERS/helpfulong@f6linux14:~/assignment2/CUSTOMERS/helpful$ S
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A]0;ong@f6linux14: ~/assignment2/CUSTOMERS/helpfulong@f6linux14:~/assignment2/CUSTOMERS/helpful$ [11Phead 52615377.txt.new 
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kcd CUSTOMERS/ls[Kcd ..[3Plscd [2Plwlscd helpful/w[Kls[1Pwlcd CUSTOMERS/ls[Kcd ../../assignment2/ls[Kmv helpfulness_review.txt ../../assignment2/[A]0;ong@f6linux14: ~/assignment2/CUSTOMERS/helpfulong@f6linux14:~/assignment2/CUSTOMERS/helpful$ ls[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cmv assignment2 helpfulness_review.txt[A]0;ong@f6linux14: ~/assignment2/CUSTOMERS/helpfulong@f6linux14:~/assignment2/CUSTOMERS/helpful$ ls[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cmv helpfuless_review.txt assignment2[A]0;ong@f6linux14: ~/assignment2/CUSTOMERS/helpfulong@f6linux14:~/assignment2/CUSTOMERS/helpful$ [3Psort -n helpfuless_review.txt 
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kfor file in ../CUSTOMERS/*.new ; do ./datamash -W ppearson 2:1 < ../CUSTOMERS/$file >> helpfuless_review.txt; done[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C; done[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[17Pcd datamash-1.3/
+
+# Mean of star ratings for ProductID
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[3Pd daless a2.txts[Kwc cmds.log head cmds.log[5@istory >[C[C[C[C[C[C[C[C[Ccmds.log > historyd ../../../assignment2/[7Psort -n mean.txt ls[Kfor file in *.txt.new.helpful ; do awk '{total += $1} END {print total/NR}' $file >> mean.txt ; done[Als[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cfor file in *.txt.new.helpful ; do awk '{total += $1} END {print total/NR}' $file >> mean.txt ; done[Als[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csort -n mean.txt 
+2.67305
+2.91083
+3.23958
+3.31034
+3.53263
+3.99007
+4.39113
+4.63618
+4.69061
+4.87195
+4.97399
+5.08566
+5.21601
+5.24158
+5.75581
+5.85086
+5.94788
+6.10736
+6.12754
+6.15986
+6.38533
+6.6443
+6.77096
+6.82093
+7.12842
+7.44534
+8.58479
+8.68498
+8.78982
+8.82411
+8.86127
+9.06212
+9.12589
+9.42427
+9.43778
+9.7483
+9.81008
+9.96248
+10.1107
+10.1721
+10.2662
+10.3213
+10.4941
+10.6792
+10.6824
+11.0894
+11.2738
+11.3761
+11.3891
+11.515
+11.7285
+11.7443
+11.9673
+12.0803
+12.0958
+12.1968
+12.2647
+12.468
+12.8449
+12.9503
+13.0129
+13.3594
+13.5522
+13.6413
+14.0307
+14.2617
+14.6346
+14.7993
+14.8007
+15.1321
+15.2774
+16.3474
+16.5653
+17.0671
+17.4155
+18.3727
+18.5337
+18.5947
+19.0442
+19.0623
+19.4015
+20.162
+20.2179
+21.1137
+21.1758
+21.3281
+21.6162
+25.1326
+25.9752
+26.3525
+26.9237
+28.0863
+30.7604
+33.4791
+34.6624
+37.236
+38.1694
+41.6824
+41.818
+57.232
+]0;ong@f6linux14: ~/assignment2/CUSTOMERS/helpfulong@f6linux14:~/assignment2/CUSTOMERS/helpful$ cd ../PROD[K[K[K[K[K[K./../PRODUCTS/helpful/
+]0;ong@f6linux14: ~/assignment2/PRODUCTS/helpfulong@f6linux14:~/assignment2/PRODUCTS/helpful$ cd mea[K[K[K[K[K[Kls
+0060193395.txt.new.helpful  043935806X.txt.new.helpful
+0060392452.txt.new.helpful  0439784549.txt.new.helpful
+0060514558.txt.new.helpful  0440212561.txt.new.helpful
+0060582510.txt.new.helpful  0440219078.txt.new.helpful
+0060761288.txt.new.helpful  0440414806.txt.new.helpful
+0060763957.txt.new.helpful  0446310786.txt.new.helpful
+0060875410.txt.new.helpful  044652252X.txt.new.helpful
+0060928336.txt.new.helpful  0446532231.txt.new.helpful
+0060930535.txt.new.helpful  0446608955.txt.new.helpful
+0060938455.txt.new.helpful  0446672211.txt.new.helpful
+0060987103.txt.new.helpful  0446677450.txt.new.helpful
+0062502182.txt.new.helpful  0449004023.txt.new.helpful
+0066214130.txt.new.helpful  0451191145.txt.new.helpful
+0140177396.txt.new.helpful  0451524934.txt.new.helpful
+014028009X.txt.new.helpful  0451526341.txt.new.helpful
+014131088X.txt.new.helpful  0525947647.txt.new.helpful
+0142001740.txt.new.helpful  0553272535.txt.new.helpful
+0156027321.txt.new.helpful  0553375407.txt.new.helpful
+0310205719.txt.new.helpful  0553573403.txt.new.helpful
+0312195516.txt.new.helpful  0590353403.txt.new.helpful
+0312278586.txt.new.helpful  059035342X.txt.new.helpful
+0312857691.txt.new.helpful  0609610597.txt.new.helpful
+0312864256.txt.new.helpful  0671021001.txt.new.helpful
+0312864590.txt.new.helpful  0671025368.txt.new.helpful
+0316011770.txt.new.helpful  0671027344.txt.new.helpful
+0316601950.txt.new.helpful  0671027360.txt.new.helpful
+0316666343.txt.new.helpful  0671524313.txt.new.helpful
+0316769487.txt.new.helpful  0679444815.txt.new.helpful
+0345340426.txt.new.helpful  0679735771.txt.new.helpful
+0345342968.txt.new.helpful  0679781587.txt.new.helpful
+0345417623.txt.new.helpful  0684801523.txt.new.helpful
+0374332657.txt.new.helpful  068484267X.txt.new.helpful
+0375826688.txt.new.helpful  0689817851.txt.new.helpful
+038529929X.txt.new.helpful  0743222245.txt.new.helpful
+0385335482.txt.new.helpful  0785263535.txt.new.helpful
+0385337116.txt.new.helpful  0786868716.txt.new.helpful
+0385484518.txt.new.helpful  0812511816.txt.new.helpful
+0385497466.txt.new.helpful  0812548051.txt.new.helpful
+038550120X.txt.new.helpful  0812550706.txt.new.helpful
+0385504209.txt.new.helpful  0842329129.txt.new.helpful
+0393317552.txt.new.helpful  0895260174.txt.new.helpful
+0399142789.txt.new.helpful  0895261901.txt.new.helpful
+0399144463.txt.new.helpful  0971453209.txt.new.helpful
+039914563X.txt.new.helpful  0975599518.txt.new.helpful
+039915079X.txt.new.helpful  1400046610.txt.new.helpful
+0399150897.txt.new.helpful  1400050308.txt.new.helpful
+0399501487.txt.new.helpful  1558743669.txt.new.helpful
+0425198243.txt.new.helpful  1576734587.txt.new.helpful
+0439064864.txt.new.helpful  1594480001.txt.new.helpful
+0439136350.txt.new.helpful  mean.txt
+0439139597.txt.new.helpful
+]0;ong@f6linux14: ~/assignment2/PRODUCTS/helpfulong@f6linux14:~/assignment2/PRODUCTS/helpful$ cd me[K[K[K[K[Khead mean.txt '[K
+16.3002
+14.9132
+13.3565
+12.5144
+27.2243
+32.4323
+11.1438
+1.56418
+6.54697
+4.65912
+]0;ong@f6linux14: ~/assignment2/PRODUCTS/helpfulong@f6linux14:~/assignment2/PRODUCTS/helpful$ head mean.txt ls[Kcd ../../PRODUCTS/helpful/[9Psort -n mean.txt echo I had a for loop initially that calculated the mean of each file and put it into mean.txt for CUSTOMERS and PRODUCTS[A[A]0;ong@f6linux14: ~/assignment2/PRODUCTS/helpfulong@f6linux14:~/assignment2/PRODUCTS/helpful$ [17Psort -n mean.txt 
+[K
+[K[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+0.590099
+0.995792
+1.0396
+1.0615
+1.06518
+1.19472
+1.27656
+1.45442
+1.46434
+1.51645
+1.55025
+1.56418
+1.58616
+1.59675
+1.66509
+1.73928
+1.84742
+1.85212
+1.97155
+2.09632
+2.15123
+2.26545
+2.27022
+2.28322
+2.3717
+2.48021
+2.52916
+2.53015
+2.67673
+2.93042
+3.02556
+3.03107
+3.09142
+3.14384
+3.26596
+3.26958
+3.52242
+3.53289
+3.56028
+3.57167
+3.58319
+3.66142
+3.70471
+4.07744
+4.10393
+4.21681
+4.29592
+4.65912
+4.69887
+4.74926
+4.92503
+4.98344
+5.57822
+5.78276
+5.83382
+6.23305
+6.41716
+6.54697
+6.56124
+6.66203
+6.71914
+6.83627
+6.85844
+7.47495
+8.1772
+8.20937
+8.28397
+8.2959
+9.2905
+9.70662
+9.79193
+10.03
+10.074
+10.25
+10.5
+11.1438
+11.5353
+12.0263
+12.2072
+12.3732
+12.5144
+13.0435
+13.0606
+13.3565
+13.6964
+13.9902
+14.9132
+15.25
+16.0852
+16.3002
+16.3083
+16.3151
+19.3554
+20.3413
+21.2929
+22.6432
+22.7475
+27.2243
+28.987
+32.4323
+]0;ong@f6linux14: ~/assignment2/PRODUCTS/helpfulong@f6linux14:~/assignment2/PRODUCTS/helpful$ Echo[K[K[K[Kecho did the same thing for PRODUC TS except I used the star rating instead
+did the same thing for PRODUCTS except I used the star rating instead
+]0;ong@f6linux14: ~/assignment2/PRODUCTS/helpfulong@f6linux14:~/assignment2/PRODUCTS/helpful$ cmds.log > hi[K[K[K[K[K[K[K[K[K[K[K[K[Kji[K[Khistory <[K> cmds.log
+]0;ong@f6linux14: ~/assignment2/PRODUCTS/helpfulong@f6linux14:~/assignment2/PRODUCTS/helpful$ ls
+0060193395.txt.new.helpful  043935806X.txt.new.helpful
+0060392452.txt.new.helpful  0439784549.txt.new.helpful
+0060514558.txt.new.helpful  0440212561.txt.new.helpful
+0060582510.txt.new.helpful  0440219078.txt.new.helpful
+0060761288.txt.new.helpful  0440414806.txt.new.helpful
+0060763957.txt.new.helpful  0446310786.txt.new.helpful
+0060875410.txt.new.helpful  044652252X.txt.new.helpful
+0060928336.txt.new.helpful  0446532231.txt.new.helpful
+0060930535.txt.new.helpful  0446608955.txt.new.helpful
+0060938455.txt.new.helpful  0446672211.txt.new.helpful
+0060987103.txt.new.helpful  0446677450.txt.new.helpful
+0062502182.txt.new.helpful  0449004023.txt.new.helpful
+0066214130.txt.new.helpful  0451191145.txt.new.helpful
+0140177396.txt.new.helpful  0451524934.txt.new.helpful
+014028009X.txt.new.helpful  0451526341.txt.new.helpful
+014131088X.txt.new.helpful  0525947647.txt.new.helpful
+0142001740.txt.new.helpful  0553272535.txt.new.helpful
+0156027321.txt.new.helpful  0553375407.txt.new.helpful
+0310205719.txt.new.helpful  0553573403.txt.new.helpful
+0312195516.txt.new.helpful  0590353403.txt.new.helpful
+0312278586.txt.new.helpful  059035342X.txt.new.helpful
+0312857691.txt.new.helpful  0609610597.txt.new.helpful
+0312864256.txt.new.helpful  0671021001.txt.new.helpful
+0312864590.txt.new.helpful  0671025368.txt.new.helpful
+0316011770.txt.new.helpful  0671027344.txt.new.helpful
+0316601950.txt.new.helpful  0671027360.txt.new.helpful
+0316666343.txt.new.helpful  0671524313.txt.new.helpful
+0316769487.txt.new.helpful  0679444815.txt.new.helpful
+0345340426.txt.new.helpful  0679735771.txt.new.helpful
+0345342968.txt.new.helpful  0679781587.txt.new.helpful
+0345417623.txt.new.helpful  0684801523.txt.new.helpful
+0374332657.txt.new.helpful  068484267X.txt.new.helpful
+0375826688.txt.new.helpful  0689817851.txt.new.helpful
+038529929X.txt.new.helpful  0743222245.txt.new.helpful
+0385335482.txt.new.helpful  0785263535.txt.new.helpful
+0385337116.txt.new.helpful  0786868716.txt.new.helpful
+0385484518.txt.new.helpful  0812511816.txt.new.helpful
+0385497466.txt.new.helpful  0812548051.txt.new.helpful
+038550120X.txt.new.helpful  0812550706.txt.new.helpful
+0385504209.txt.new.helpful  0842329129.txt.new.helpful
+0393317552.txt.new.helpful  0895260174.txt.new.helpful
+0399142789.txt.new.helpful  0895261901.txt.new.helpful
+0399144463.txt.new.helpful  0971453209.txt.new.helpful
+039914563X.txt.new.helpful  0975599518.txt.new.helpful
+039915079X.txt.new.helpful  1400046610.txt.new.helpful
+0399150897.txt.new.helpful  1400050308.txt.new.helpful
+0399501487.txt.new.helpful  1558743669.txt.new.helpful
+0425198243.txt.new.helpful  1576734587.txt.new.helpful
+0439064864.txt.new.helpful  1594480001.txt.new.helpful
+0439136350.txt.new.helpful  cmds.log
+0439139597.txt.new.helpful  mean.txt
+]0;ong@f6linux14: ~/assignment2/PRODUCTS/helpfulong@f6linux14:~/assignment2/PRODUCTS/helpful$ mv cmds.log /[K../../as[K[K../assignment2/
+]0;ong@f6linux14: ~/assignment2/PRODUCTS/helpfulong@f6linux14:~/assignment2/PRODUCTS/helpful$ ls
+0060193395.txt.new.helpful  043935806X.txt.new.helpful
+0060392452.txt.new.helpful  0439784549.txt.new.helpful
+0060514558.txt.new.helpful  0440212561.txt.new.helpful
+0060582510.txt.new.helpful  0440219078.txt.new.helpful
+0060761288.txt.new.helpful  0440414806.txt.new.helpful
+0060763957.txt.new.helpful  0446310786.txt.new.helpful
+0060875410.txt.new.helpful  044652252X.txt.new.helpful
+0060928336.txt.new.helpful  0446532231.txt.new.helpful
+0060930535.txt.new.helpful  0446608955.txt.new.helpful
+0060938455.txt.new.helpful  0446672211.txt.new.helpful
+0060987103.txt.new.helpful  0446677450.txt.new.helpful
+0062502182.txt.new.helpful  0449004023.txt.new.helpful
+0066214130.txt.new.helpful  0451191145.txt.new.helpful
+0140177396.txt.new.helpful  0451524934.txt.new.helpful
+014028009X.txt.new.helpful  0451526341.txt.new.helpful
+014131088X.txt.new.helpful  0525947647.txt.new.helpful
+0142001740.txt.new.helpful  0553272535.txt.new.helpful
+0156027321.txt.new.helpful  0553375407.txt.new.helpful
+0310205719.txt.new.helpful  0553573403.txt.new.helpful
+0312195516.txt.new.helpful  0590353403.txt.new.helpful
+0312278586.txt.new.helpful  059035342X.txt.new.helpful
+0312857691.txt.new.helpful  0609610597.txt.new.helpful
+0312864256.txt.new.helpful  0671021001.txt.new.helpful
+0312864590.txt.new.helpful  0671025368.txt.new.helpful
+0316011770.txt.new.helpful  0671027344.txt.new.helpful
+0316601950.txt.new.helpful  0671027360.txt.new.helpful
+0316666343.txt.new.helpful  0671524313.txt.new.helpful
+0316769487.txt.new.helpful  0679444815.txt.new.helpful
+0345340426.txt.new.helpful  0679735771.txt.new.helpful
+0345342968.txt.new.helpful  0679781587.txt.new.helpful
+0345417623.txt.new.helpful  0684801523.txt.new.helpful
+0374332657.txt.new.helpful  068484267X.txt.new.helpful
+0375826688.txt.new.helpful  0689817851.txt.new.helpful
+038529929X.txt.new.helpful  0743222245.txt.new.helpful
+0385335482.txt.new.helpful  0785263535.txt.new.helpful
+0385337116.txt.new.helpful  0786868716.txt.new.helpful
+0385484518.txt.new.helpful  0812511816.txt.new.helpful
+0385497466.txt.new.helpful  0812548051.txt.new.helpful
+038550120X.txt.new.helpful  0812550706.txt.new.helpful
+0385504209.txt.new.helpful  0842329129.txt.new.helpful
+0393317552.txt.new.helpful  0895260174.txt.new.helpful
+0399142789.txt.new.helpful  0895261901.txt.new.helpful
+0399144463.txt.new.helpful  0971453209.txt.new.helpful
+039914563X.txt.new.helpful  0975599518.txt.new.helpful
+039915079X.txt.new.helpful  1400046610.txt.new.helpful
+0399150897.txt.new.helpful  1400050308.txt.new.helpful
+0399501487.txt.new.helpful  1558743669.txt.new.helpful
+0425198243.txt.new.helpful  1576734587.txt.new.helpful
+0439064864.txt.new.helpful  1594480001.txt.new.helpful
+0439136350.txt.new.helpful  mean.txt
+0439139597.txt.new.helpful
+]0;ong@f6linux14: ~/assignment2/PRODUCTS/helpfulong@f6linux14:~/assignment2/PRODUCTS/helpful$ cd ..
+]0;ong@f6linux14: ~/assignment2/PRODUCTSong@f6linux14:~/assignment2/PRODUCTS$ cd ..
+]0;ong@f6linux14: ~/assignment2ong@f6linux14:~/assignment2$ ls
+100CustomerIDs.txt  PRODUCTS      datamash-1.3.tar.gz     product_title.txt
+100ProductIDs.txt   cmds.log      helpfulness_review.txt
+CUSTOMERS           datamash-1.3  history
+]0;ong@f6linux14: ~/assignment2ong@f6linux14:~/assignment2$ rm history
+]0;ong@f6linux14: ~/assignment2ong@f6linux14:~/assignment2$ ls
+100CustomerIDs.txt  PRODUCTS      datamash-1.3.tar.gz
+100ProductIDs.txt   cmds.log      helpfulness_review.txt
+CUSTOMERS           datamash-1.3  product_title.txt
+]0;ong@f6linux14: ~/assignment2ong@f6linux14:~/assignment2$ exit
+
+Script done on 2021-09-30 04:11:30+00:00 [COMMAND_EXIT_CODE="0"]
